@@ -27,7 +27,7 @@ This project is a simple To Do app containing a todo list that is connected to t
     npm install
     ```
 
-- Copy the backend.txt file and put it into a .env file in the backend folder. Remember to fill in each field accordingly.
+- Copy the .env file from the Google Drive and put it in the backend folder.
   
 
 - Run the backend
